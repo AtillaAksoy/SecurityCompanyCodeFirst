@@ -1,0 +1,10 @@
+﻿namespace SecurityCompanyCodeFirst
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+
+        }
+    }
+}
